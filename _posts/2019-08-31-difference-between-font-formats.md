@@ -54,9 +54,9 @@ To take it one step further, DNA origami works by using long template strand -- 
 Incredibly, the structures achieved are often also the most stable, as the predictability of complementary base-pairing & its programmability means that the scaffold & DNA strands are likely to self - assemble into its lowest energy state. 
 
 This concept was first demonstrated in a paper “Folding DNA to create nanoscale shapes and patterns”, which involved 4 key steps: 
-1. #### Build a geometric model of a DNA structure that approximates the desired shape
+1. ##### Build a geometric model of a DNA structure that approximates the desired shape
 The shape is constructed from top to bottom with an even number of parallel double helices that are cut  to fit to the shape in pairs & constrained to a set number of turns in length. At the same time, they’re held together by an array of crossovers which dictate the positions at which staple strands along one helix cross-over to an adjacent one!
-2. Folding a single long scaffold strand back and forth in a pattern so it makes up one of the two strands in every helix
+2. ###### Folding a single long scaffold strand back and forth in a pattern so it makes up one of the two strands in every helix
 3. Designing complementary “sample strands” 
 The geometric model is inputted as a “lists” of DNA lengths, along with the DNA sequence of the actual scaffold used into a computer programme. In turn, it outputs the complements for the scaffold and creates the appropriate crossovers in these strands. 
 Readjusting configuration 
