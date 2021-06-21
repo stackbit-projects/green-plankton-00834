@@ -48,8 +48,7 @@ The idea then, was that by using pre-defined intermolecular contacts that result
 At the time, the structure was used to orient target proteins, imposing the crystalline structure onto these proteins, increasing the ease of X-ray crystallography on it. However, in the decades since, the field has continued to blossom into exploring the potential complexities and permutations of this incredible technology. 
 
 
-
-Experimentation 
+## Experimentation 
 
 To take it one step further, DNA origami works by using long template strand -- the scaffold  -- and shorter oligonucleotide segments -- staple strands. The mechanism uses the scaffold as a backbone, onto which oligonucleotides can base-pair & hybridise, causing it to fold in specific sections. Adjacent DNA helices are joint through Holliday junctions, resulting in the parallel array of these helices. 
 
