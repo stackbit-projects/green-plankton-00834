@@ -89,7 +89,7 @@ Comparatively, scientists constructed the rigid struts of multi-helix bundles to
 
 Rigid struts of multihelix bundles (??) are used as compression-bearing elements, while long sections of singlestranded scaffold DNA act as tension-bearing cables, creating these complex 3D structures. 
 
-Another interesting strategy used is to create curved helices. Up to this point, DNA helices have been largely straight, so this offers a really interesting means of reconfiguration! It’s really simple - we just need 1 DNA strand to contain less base pairs than the other. Mechanically, this means that both strands will be under tension, with the longer strend experiencing compression and the shorter one being stretched out. To relieve this tension, the DNA helix will bend, and has been shown to bend up to 180degrees, comparable to DNA helices around a histones in a nucleosome! The only difference is nature’s mechanism relied on protein-DNA interactions, while this relies on  equally pliableDNA base pairing interactions. 
+Another interesting strategy used is to create **curved** helices. Up to this point, DNA helices have been largely straight, so this offers a really interesting means of reconfiguration! It’s really simple - we just need 1 DNA strand to contain less base pairs than the other. Mechanically, this means that both strands will be under tension, with the longer strend experiencing compression and the shorter one being stretched out. To relieve this tension, the DNA helix will bend, and has been shown to bend up to 180degrees, comparable to DNA helices around a histones in a nucleosome! The only difference is nature’s mechanism relied on protein-DNA interactions, while this relies on  equally pliableDNA base pairing interactions. 
 
 
 
