@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DNA Nanofabrication
-description: What is the difference between various font formats?
+description: A look into self-assembling structures 
 summary: What is the difference between various font formats?
 tags: typography
 minute: 1
