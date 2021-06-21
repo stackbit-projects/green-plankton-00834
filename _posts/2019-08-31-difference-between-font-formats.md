@@ -19,7 +19,9 @@ minute: 5
 ##### h5
 
 ---
+
 # Introduction
+
 DNA nanofabrication functions on quite an intuitive premise - to use DNA a building material to build nanoscale constructs. 
 
 On of the main goals of DNA nano-technology is to build self-assembling objects of ever increasing complexity. It seems like other-wordly bizarre magic at first - how do you “program” DNA into creating these complex structures? 
