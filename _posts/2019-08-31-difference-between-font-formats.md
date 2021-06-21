@@ -63,15 +63,12 @@ The geometric model is inputted as a “lists” of DNA lengths, along with the 
 Due to the crossovers created & the asymmetrical nature of the double helix, the twist of the scaffold crossovers are recalibrated & their position is changed to minimise strain, recomputing staple sequences accordingly. 
 
 
-
 Scaffold strands can also act as molecular breadboards, allowing us to engineer surface features onto scaffold strands, that manifest in bumps, enabling the patterning of 2-D structures like this! 
-
 
 
 To combine these different 2D-shapes together, scientists used “extended staples” that connected these shapes along their edges, by merging and breaking original staples along their edges. 
 
 To create assemble square lattices meanwhile, we’ve realised that we can underwind DNA (creating additional helical turns per base pairs in a counter-clockwise direction)  by 10.67 bp. Consequently, the global structure compensates for this with a clockwise supertwist. 
-
 
 Up to this point, the structures we’ve built have remained relatively simple and small. If we do plan on approaching the end-goal of building increasingly complex self-assembling structures, we have to consider the question: How do we build larger structures? 
 
