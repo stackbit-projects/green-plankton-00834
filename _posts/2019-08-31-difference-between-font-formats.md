@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DNA Nanofabrication
-description: A look into self-assembling structures 
+description: A look into self-assembling structures & dna origami
 summary: What is the difference between various font formats?
 tags: typography
 minute: 1
