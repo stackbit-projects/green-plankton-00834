@@ -2,9 +2,9 @@
 layout: post
 title: DNA Nanofabrication
 description: A look into self-assembling structures & dna origami
-summary: 
-tags: typography
-minute: 1
+summary: DNA nanofabrication functions on quite an intuitive premise - to use DNA a building material to build nanoscale constructs.
+tags: DNAorigami SyntheticBiology 
+minute: 5
 ---
 
 # h1
