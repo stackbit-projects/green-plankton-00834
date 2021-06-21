@@ -31,7 +31,7 @@ We often discuss DNA in the context of its role in the Central Dogma - as an inf
 There are 3 key properties of DNA which allow this mechanism to function: 
 1. Double-stranded DNA ladder with anti-parallel strands (i.e. DNA strands running in opposite directions) 
 2. Right-handed twist with 10.5 bpt
-Complementary base pairing of purine & pyrimidine bases via Hydrogen bonding (A-T, C-G)
+3. Complementary base pairing of purine & pyrimidine bases via Hydrogen bonding (A-T, C-G)
 
 Base per turn:  
 The given number of base pairs within one helical turn 
