@@ -34,8 +34,8 @@ There are 3 key properties of DNA which allow this mechanism to function:
 2. Right-handed twist with 10.5 bpt
 3. Complementary base pairing of purine & pyrimidine bases via Hydrogen bonding (A-T, C-G)
 
-Base per turn:  
-The given number of base pairs within one helical turn 
+_Base per turn:  
+The given number of base pairs within one helical turn_
 
 Genesis
 
