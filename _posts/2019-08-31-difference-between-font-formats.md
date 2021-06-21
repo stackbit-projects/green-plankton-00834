@@ -7,19 +7,6 @@ tags: DNA-origami Synthetic-Biology
 minute: 5
 ---
 
-# h1
-
-## h2
-
-### h3
-
-
-#### h4
-
-##### h5
-
----
-
 ## Introduction
 
 DNA nanofabrication functions on quite an intuitive premise - to use DNA a building material to build nanoscale constructs. 
