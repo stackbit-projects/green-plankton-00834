@@ -49,7 +49,6 @@ At the time, the structure was used to orient target proteins, imposing the crys
 
 
 ## Experimentation 
-
 To take it one step further, DNA origami works by using long template strand -- the scaffold  -- and shorter oligonucleotide segments -- staple strands. The mechanism uses the scaffold as a backbone, onto which oligonucleotides can base-pair & hybridise, causing it to fold in specific sections. Adjacent DNA helices are joint through Holliday junctions, resulting in the parallel array of these helices. 
 
 Incredibly, the structures achieved are often also the most stable, as the predictability of complementary base-pairing & its programmability means that the scaffold & DNA strands are likely to self - assemble into its lowest energy state. 
