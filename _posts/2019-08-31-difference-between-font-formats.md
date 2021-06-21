@@ -29,8 +29,8 @@ The answer is surprisingly simple: DNA base pairing.
 We often discuss DNA in the context of its role in the Central Dogma - as an information repository for the genetic code. We’re going to ignore all of that in this article and focus on something entirely different!
 
 There are 3 key properties of DNA which allow this mechanism to function: 
-Double-stranded DNA ladder with anti-parallel strands (i.e. DNA strands running in opposite directions) 
-Right-handed twist with 10.5 bpt
+1. Double-stranded DNA ladder with anti-parallel strands (i.e. DNA strands running in opposite directions) 
+2. Right-handed twist with 10.5 bpt
 Complementary base pairing of purine & pyrimidine bases via Hydrogen bonding (A-T, C-G)
 
 Base per turn:  
