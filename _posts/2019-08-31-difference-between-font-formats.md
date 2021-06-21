@@ -39,6 +39,7 @@ There are 3 key properties of DNA which allow this mechanism to function:
 _Base per turn:  
 The given number of base pairs within one helical turn_
 
+
 ## Genesis
 
 The field was borne out of a slightly odd idea from crystallographer, Ned Seeman. Inspired by a woodcut by MC Eshcer, he postulated that the fish in the image with 3 orthogonal axes, arranged periodically in 3D were analogous to molecules in a crystalling structure. In fact, these fish could be replaced by DNA Holliday Junctions, with their contacts being programmed by through the specificity of its sticky ends. 
